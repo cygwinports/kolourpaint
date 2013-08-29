@@ -1,4 +1,0 @@
-category: Graphics KDE
-requires: libgcc1 libkdecore5 libqimageblitz4 libQtCore4 libQtGui4 libstdc++6
-sdesc: "KDE paint program"
-ldesc: "KDE graphics suite"

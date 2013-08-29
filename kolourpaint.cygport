@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kolourpaint"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="Graphics"
+SUMMARY="KDE paint program"
+DESCRIPTION="Part of the KDE graphics suite"
