@@ -1,10 +1,8 @@
-inherit kde4
+inherit kf5
 
 NAME="kolourpaint"
-VERSION=15.04.3
+VERSION=16.08.3
 RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="KDE paint program"
 DESCRIPTION="Part of the KDE graphics suite"
-
-REQUIRES="kde-runtime"
